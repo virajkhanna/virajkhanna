@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Viraj. I am a 12 year old who likes to program for fun. If you want to know more about me, take a visit to virajkhanna.in. I like programming and I am writing different things. I write code and apps for fun. 
+I am Viraj. I am a student who likes to program for fun. If you want to know more about me, take a visit to virajkhanna.in. I like programming and I am writing different things. I write code and apps for fun. 
 
 ![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajkhanna)
 ![Viraj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virajkhanna)
